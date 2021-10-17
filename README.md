@@ -3,7 +3,7 @@
 ## Skills and Experience
 * Java & Python
 * React & Angular
-* HHTML, CSS, JavaScript
+* HTML, CSS, JavaScript
 
 ## :books: Education
 * Software Developer, Helsinki Business College | **Currently studying**
