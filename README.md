@@ -1,5 +1,10 @@
 # :wave: Hi, I'm Krista-Mari - Junior Software Developer from Finland
 
+## Skills and Experience
+* Java & Python
+* React & Angular
+* HHTML, CSS, JavaScript
+
 ## :books: Education
 * Software Developer, Helsinki Business College | **Currently studying**
 * Graphic Design, Helsinki Design School
