@@ -3,7 +3,7 @@
 ## :books: Education
 * Software Developer, Helsinki Business College | **Currently studying**
 * Graphic Design, Helsinki Design School
-* Hotel Management, Haaga-Helia University of Applied Sciences
+* Bachelor of Hotel Management, Haaga-Helia University of Applied Sciences
 * Tourism Activities Organizer, Vocational School of Tampere (tredu)
 
 ## :email: Contact me
