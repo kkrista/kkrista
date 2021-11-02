@@ -12,5 +12,5 @@
 * Tourism Activities Organizer, Vocational School of Tampere (tredu)
 
 ## :email: Contact me
-* kristamari.katajistp@gmail.com
+* kristamari.katajisto@gmail.com
 * http://www.linkedin.com/in/kristamarikatajisto/
