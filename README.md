@@ -6,7 +6,7 @@
 * HTML, CSS, JavaScript
 
 ## :books: Education
-* Software Developer, Helsinki Business College | **Currently studying**
+* Software Developer, Helsinki Business College
 * Graphic Design, Helsinki Design School
 * Bachelor of Hotel Management, Haaga-Helia University of Applied Sciences
 * Tourism Activities Organizer, Vocational School of Tampere (tredu)
