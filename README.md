@@ -1,4 +1,4 @@
-# :wave: Hi, I'm Krista-Mari - Junior Software Developer from Finland
+# :wave: Hi, I'm Krista-Mari - Software Developer from Finland
 
 ## Skills and Experience
 * Java & Python
