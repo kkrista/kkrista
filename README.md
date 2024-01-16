@@ -1,15 +1,10 @@
-# :wave: Hi, I'm Krista-Mari - Software Developer from Finland
+# :wave: Hi, I'm Krista-Mari - Web Developer & Designer from Finland
 
 ## Skills and Experience
-* Java & Python
+* Java & Python & PHP
 * React & Angular
 * HTML, CSS, JavaScript
 
-## :books: Education
-* Software Developer, Helsinki Business College
-* Graphic Design, Helsinki Design School
-* Bachelor of Hotel Management, Haaga-Helia University of Applied Sciences
-* Tourism Activities Organizer, Vocational School of Tampere (tredu)
 
 ## :email: Contact me
 * kristamari.katajisto@gmail.com
