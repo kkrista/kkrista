@@ -1,4 +1,4 @@
-# :wave:👋 Hello, GitHub Community! I'm kkrista, a passionate Front-End Developer with a flair for design aesthetics and a love for crafting seamless user interfaces. 🚀
+<h1>👋 Hello, GitHub Community! I'm kkrista, a passionate Front-End Developer with a flair for design aesthetics and a love for crafting seamless user interfaces. 🚀 </h1>
 
 ## 🛠️ Tech Stack:
 
