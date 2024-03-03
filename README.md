@@ -9,7 +9,7 @@
 ## 🖌️ Visual Eye & UI Design:
 My journey involves not just coding but also a deep dive into the world of UI design. I believe in the power of visual elements to enhance user experiences. Experienced in tools like Adobe XD, Figma, and Sketch, I enjoy creating interfaces that are not only functional but visually captivating.
 
-##🌱 Continuous Development:
+## 🌱 Continuous Development:
 I'm on a perpetual quest for learning and growth. Keen to stay on top of the latest trends and technologies in front-end development, I'm committed to evolving my skill set and contributing to exciting projects.
 
 ## 🤝 Collaboration:
